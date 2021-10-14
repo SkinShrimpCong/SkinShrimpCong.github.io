@@ -18,6 +18,10 @@
 * Markdown使用
 
   * [typora](./docs/markdown使用.md)
+  
+* Linux使用
+
+  * [shell快捷键](./docs/shell快捷键.md)
 
   
 
